@@ -8,7 +8,7 @@ function setup() {
 
 function draw() 
 {
-   background("pink");
+   background("lightblue");
    edges = createEdgeSprites();
 
    box.bounce(edges)
